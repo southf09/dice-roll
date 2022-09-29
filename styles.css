@@ -44,5 +44,18 @@ h1 {
 }
 
 .btn {
+	font-family: 'Poppins', sans-serif;
 	margin-top: 3rem;
+	width: 250px;
+	height: 35px;
+	border-radius: 10px;
+	border: 1px solid darkgray;
+	background-color: #f2a65a;
+	color: #403d39;
+	cursor: pointer;
+}
+
+.btn:hover {
+	background-color: #eec170;
+	border: 1px solid white;
 }
